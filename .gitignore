@@ -1,4 +1,11 @@
-node_modules
+# Dependências
+node_modules/
+
+# Variáveis de ambiente (segurança)
 .env
-dist
-coverage
+
+# Build do TypeScript
+dist/
+
+# Relatório de testes
+coverage/
